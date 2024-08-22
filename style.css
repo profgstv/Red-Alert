@@ -1,0 +1,25 @@
+h1{
+    font-size: 64;
+
+}
+h2{
+    font-weight: bold;
+    font-size: 32;
+
+}
+
+body{
+    background-color: red;
+    color:black;
+    font-family: Grenze;
+    text-align: center;
+
+}
+
+header{
+    border-bottom: 1px solid black;
+}
+
+footer{
+    border-top: 1px solid black;
+}
